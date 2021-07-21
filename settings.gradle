@@ -1,0 +1,2 @@
+rootProject.name = "LocalWordService"
+include ':app'
